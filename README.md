@@ -120,6 +120,4 @@ Learning by building: ML projects with real datasets, clean EDA, and small web a
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-*This README updates automatically with my latest GitHub activity*
-
 </div>

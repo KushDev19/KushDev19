@@ -5,7 +5,7 @@
 ### CS Junior @ NJIT • From Rajkot 🇮🇳 → Jersey City 🇺🇸  
 Learning by building: ML projects with real datasets, clean EDA, and small web apps. If it runs and plots, it ships.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Full+Stack+Developer;AI+%26+Automation+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Learning+GenAI;AI+%26+Automation+Explorer" alt="Typing SVG" />
 
 ---
 

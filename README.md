@@ -39,13 +39,6 @@ Learning by building: ML projects with real datasets, clean EDA, and small web a
 
 <img width="390" src="https://streak-stats.demolab.com?user=KushDev19&count_private=true&theme=tokyonight&border_radius=10&hide_border=true" alt="streak stats"/>
 
----
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=KushDev19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
----
-
 </div>
 
 ## 🛠️ Tech Arsenal

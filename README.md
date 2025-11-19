@@ -77,11 +77,12 @@ Learning by building: ML projects with real datasets, clean EDA, and small web a
 
 ---
 
-## 🚀 Projects that actually run
-- 📈 **Flight Price Prediction** — EDA → feature engineering → modeling. Practical dataset, clear visuals.
-- 🏪 **Sales Analysis & Purchase Prediction** — from data cleaning to forecasting.
-- 🍕 **Zomato Dataset EDA** — restaurant/food‑delivery insights with solid charts.
-- 🤖 **Jarvis** — personal automation/AI assistant experiments.
+## 🚀 Projects
+- 🎓 **Student Performance Predictor** — full-stack ML app that predicts student math scores from demographics and test performance. End-to-end pipeline from data to deployment.
+- 📈 **Flight Price Prediction** — EDA → feature engineering → modeling on real flight data to understand what drives ticket prices.
+- 🏪 **Sales Analysis & Purchase Prediction** — Black Friday sales EDA + feature engineering + regression models to predict purchase amounts.
+- 🍕 **Zomato Dataset EDA** — deep dive into restaurant / food-delivery data with clean visual insights and city-wise patterns.
+- 🤖 **Jarvis** — Python-based personal AI assistant for voice commands, automation, and quick info retrieval experiments.
 
 ---
 

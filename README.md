@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Kush 👋
+# Hey, I'm Kush 👋 - [Kushrank.com](https://kushrank.com/)
 
 CS Junior @ NJIT • Originally from Rajkot 🇮🇳, now in Jersey City 🇺🇸
 

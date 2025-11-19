@@ -10,12 +10,15 @@ Learning by building: ML projects with real datasets, clean EDA, and small web a
 ---
 
 </div>
+🚀 What I'm doing (for real)
 
-## 🚀 What I'm doing (for real)
-- 🤖 Machine learning with real data: flights, retail sales, food delivery (Zomato)  
-- 📊 End‑to‑end EDA → features → models → simple, reproducible results  
-- 🌐 Web dev practice while wiring ML into usable demos  
-- 🧠 "Jarvis" experiments for automation/AI assistants
+🤖 Playing with real-world ML datasets — flight prices, retail sales, Zomato, etc. — and seeing what actually moves the numbers instead of just chasing fancy models.
+
+📊 Taking messy CSVs → clean EDA → useful features → models → plots that tell a story (if it runs and plots, it ships 😎).
+
+🌐 Leveling up my web dev (Next.js, React, Tailwind) so I can turn notebooks into small ML-powered apps instead of just screenshots.
+
+🧠 Messing around with my own “Jarvis”-style automations and AI assistants to make my day a little lazier and a lot smarter.
 
 <div align="center">
 
